@@ -1,0 +1,2 @@
+# mynia
+Unicorn name generator
