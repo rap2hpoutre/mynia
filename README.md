@@ -1,4 +1,4 @@
-# mynia
+# Mynia
 Unicorn name generator. Give a name to your favorite unicorn.
 
 ## Install
