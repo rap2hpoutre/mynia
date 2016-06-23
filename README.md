@@ -1,6 +1,11 @@
 # mynia
 Unicorn name generator. Give a name to your favorite unicorn.
 
+## Install
+```
+cargo build --release
+````
+## Usage
 ```
 raph:~ raphael$ mymia
 Your unicorn name will be: Yojo
