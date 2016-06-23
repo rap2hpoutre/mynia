@@ -2,3 +2,6 @@
 name = "mymia"
 version = "0.1.0"
 authors = ["Your Name <you@example.com>"]
+
+[dependencies]
+rand = "0.3"
